@@ -19,7 +19,7 @@ public class Main {
         try {
             input = br.readLine();
             //Assumption is made that inputs are formatted exactly like the sample inputs
-            //(e.g. Quantity Import Name at Price)
+            //(e.g. Quantity Import Name at Price).
 
             //Additional assumptions:
             //All foods contain either chocolates or chocolate
