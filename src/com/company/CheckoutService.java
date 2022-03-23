@@ -4,6 +4,8 @@ import java.text.DecimalFormat;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 
+//Author: Ryan Tonthat
+
 public class CheckoutService {
 
     //Checkout (LinkedHashMap for insertion order)

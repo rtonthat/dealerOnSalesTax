@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.LinkedHashMap;
 
+//Author: Ryan Tonthat
+
 public class Main {
 
     public static void main(String[] args) {

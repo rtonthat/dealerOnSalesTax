@@ -2,6 +2,8 @@ package com.company;
 
 import java.util.LinkedHashMap;
 
+//Author: Ryan Tonthat
+
 public class ShoppingCartParser {
 
     public static LinkedHashMap<Item, Integer> parse(String input) {

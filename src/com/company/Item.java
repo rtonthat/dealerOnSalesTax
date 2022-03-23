@@ -2,6 +2,8 @@ package com.company;
 
 import java.text.DecimalFormat;
 
+//Author: Ryan Tonthat
+
 public class Item {
     DecimalFormat decimalFormat = new DecimalFormat("#0.00");
     private final String name;
